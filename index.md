@@ -1,6 +1,7 @@
 Jessica Hung (yuhung@ucsd.edu)
-Section: A15
-Mentors: Rayan Saab and Alex Cloninger
+
+- Section: A15
+- Mentors: Rayan Saab and Alex Cloninger
 
 What is the most interesting topic covered in your domain this quarter?
 - Specific quantization technique, namely GPFQ, and gave us the intuition behind how alphabets and the technique work mathematically.
